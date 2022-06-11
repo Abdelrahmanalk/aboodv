@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aboodv
-- 👀 I’m interested in studying and engineering 
-- 🌱 I’m currently learning telecommunications engineering 
-- 💞️ I’m looking to collaborate on github
+- 🌱 I’m currently  studying telecommunications engineering 
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me 2020973098@ses.yu.edu.jo
 
 <!---
